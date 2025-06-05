@@ -1,6 +1,6 @@
 # Neovim-config-files
 
-My Neovim config files
+[My Neovim config files](config/config.lua)
 
 Appearance
 <h>
